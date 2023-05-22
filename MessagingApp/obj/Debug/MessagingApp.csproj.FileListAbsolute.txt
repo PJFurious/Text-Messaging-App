@@ -1,0 +1,10 @@
+C:\Users\jeand\My Drive\Projects\MessagingApp\bin\Debug\MessagingApp.exe
+C:\Users\jeand\My Drive\Projects\MessagingApp\bin\Debug\MessagingApp.pdb
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.csproj.AssemblyReference.cache
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.Properties.Resources.resources
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.csproj.GenerateResource.cache
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.exe
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.pdb
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.MainFrm.resources
+C:\Users\jeand\My Drive\Projects\MessagingApp\obj\Debug\MessagingApp.GetUserName.resources

@@ -1,0 +1,3 @@
+sudo lsof -i :<port>
+sudo kill <PID>
+sudo lsof -i :<port>
